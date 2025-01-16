@@ -12,8 +12,8 @@ I'm currently learning C++ with SFML Library. <br>My most used lenguage is Pytho
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leegisker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leegisker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Favorite Quote
+*"I overcame myself, the sufferer; I carried my own ashes to the mountains; I invented a brighter flame for myself."* - Friedrich Nietzsche
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leegisker&icon=0&color=0)](https://visitcount.itsvg.in)
